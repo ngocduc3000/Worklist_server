@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{252880CC-8562-4EC6-93D6-DC174386D786}|worklist_server\\worklist_server.csproj|D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\worklist_server\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252880CC-8562-4EC6-93D6-DC174386D786}|worklist_server\\worklist_server.csproj|solutionrelative:worklist_server\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252880CC-8562-4EC6-93D6-DC174386D786}|worklist_server\\worklist_server.csproj|d:\\du_lieu_ca_nhan\\worklist server\\worklist_server\\worklist_server\\worklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252880CC-8562-4EC6-93D6-DC174386D786}|worklist_server\\worklist_server.csproj|solutionrelative:worklist_server\\worklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252880CC-8562-4EC6-93D6-DC174386D786}|worklist_server\\worklist_server.csproj|D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\worklist_server\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{252880CC-8562-4EC6-93D6-DC174386D786}|worklist_server\\worklist_server.csproj|solutionrelative:worklist_server\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252880CC-8562-4EC6-93D6-DC174386D786}|worklist_server\\worklist_server.csproj|D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\worklist_server\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252880CC-8562-4EC6-93D6-DC174386D786}|worklist_server\\worklist_server.csproj|solutionrelative:worklist_server\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252880CC-8562-4EC6-93D6-DC174386D786}|worklist_server\\worklist_server.csproj|D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\worklist_server\\formresettrial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252880CC-8562-4EC6-93D6-DC174386D786}|worklist_server\\worklist_server.csproj|solutionrelative:worklist_server\\formresettrial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252880CC-8562-4EC6-93D6-DC174386D786}|worklist_server\\worklist_server.csproj|d:\\du_lieu_ca_nhan\\worklist server\\worklist_server\\worklist_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252880CC-8562-4EC6-93D6-DC174386D786}|worklist_server\\worklist_server.csproj|solutionrelative:worklist_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252880CC-8562-4EC6-93D6-DC174386D786}|worklist_server\\worklist_server.csproj|D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\worklist_server\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252880CC-8562-4EC6-93D6-DC174386D786}|worklist_server\\worklist_server.csproj|solutionrelative:worklist_server\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252880CC-8562-4EC6-93D6-DC174386D786}|worklist_server\\worklist_server.csproj|D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\worklist_server\\formresettrial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{252880CC-8562-4EC6-93D6-DC174386D786}|worklist_server\\worklist_server.csproj|solutionrelative:worklist_server\\formresettrial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorklistService.cs",
+              "DocumentMoniker": "D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\worklist_server\\WorklistService.cs",
+              "RelativeDocumentMoniker": "worklist_server\\WorklistService.cs",
+              "ToolTip": "D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\worklist_server\\WorklistService.cs",
+              "RelativeToolTip": "worklist_server\\WorklistService.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAwIoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:25:33.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\worklist_server\\Program.cs",
+              "RelativeDocumentMoniker": "worklist_server\\Program.cs",
+              "ToolTip": "D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\worklist_server\\Program.cs",
+              "RelativeToolTip": "worklist_server\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwDwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:35:14.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConfigManager.cs",
+              "DocumentMoniker": "D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\worklist_server\\ConfigManager.cs",
+              "RelativeDocumentMoniker": "worklist_server\\ConfigManager.cs",
+              "ToolTip": "D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\worklist_server\\ConfigManager.cs",
+              "RelativeToolTip": "worklist_server\\ConfigManager.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAiwKIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T04:00:16.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\worklist_server\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "worklist_server\\DatabaseHelper.cs",
+              "ToolTip": "D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\worklist_server\\DatabaseHelper.cs",
+              "RelativeToolTip": "worklist_server\\DatabaseHelper.cs",
+              "ViewState": "AgIAAHMCAAAAAAAAAAAmwJ0CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:55:12.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormResetTrial.cs",
+              "DocumentMoniker": "D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\worklist_server\\FormResetTrial.cs",
+              "RelativeDocumentMoniker": "worklist_server\\FormResetTrial.cs",
+              "ToolTip": "D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\worklist_server\\FormResetTrial.cs",
+              "RelativeToolTip": "worklist_server\\FormResetTrial.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA5wDEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:37:00.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormResetTrial.cs [Design]",
+              "DocumentMoniker": "D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\worklist_server\\FormResetTrial.cs",
+              "RelativeDocumentMoniker": "worklist_server\\FormResetTrial.cs",
+              "ToolTip": "D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\worklist_server\\FormResetTrial.cs [Design]",
+              "RelativeToolTip": "worklist_server\\FormResetTrial.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:25:07.931Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\worklist_server\\MainForm.cs",
+              "RelativeDocumentMoniker": "worklist_server\\MainForm.cs",
+              "ToolTip": "D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\worklist_server\\MainForm.cs",
+              "RelativeToolTip": "worklist_server\\MainForm.cs",
+              "ViewState": "AgIAAL8BAAAAAAAAAAAswNcBAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:52:58.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\worklist_server\\MainForm.cs",
+              "RelativeDocumentMoniker": "worklist_server\\MainForm.cs",
+              "ToolTip": "D:\\Du_lieu_ca_nhan\\Worklist Server\\worklist_server\\worklist_server\\MainForm.cs [Design]",
+              "RelativeToolTip": "worklist_server\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:51:58.549Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

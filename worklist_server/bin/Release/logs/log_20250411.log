@@ -1,0 +1,678 @@
+[2025-04-11 14:59:03] - [CT_AE-192.168.60.162]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 14:59:03] - [CT_AE-192.168.60.162]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 14:59:03] - [CT_AE-192.168.60.162]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 1
+
+[2025-04-11 14:59:03] - [CT_AE-192.168.60.162]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 1
+
+[2025-04-11 14:59:03] - [CT_AE-192.168.60.162]: Connection closed normally.
+[2025-04-11 14:59:03] - [CT_AE-192.168.60.162]: Connection closed normally.
+[2025-04-11 15:01:37] - [CT_AE-192.168.60.162]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 15:01:37] - [CT_AE-192.168.60.162]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 15:01:37] - [CT_AE-192.168.60.162]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 180302001
+
+[2025-04-11 15:01:37] - [CT_AE-192.168.60.162]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 180302001
+
+[2025-04-11 15:01:37] - [CT_AE-192.168.60.162]: Connection closed normally.
+[2025-04-11 15:01:37] - [CT_AE-192.168.60.162]: Connection closed normally.
+[2025-04-11 22:17:17] - [CT_AE-192.168.1.31]: Rejected: Unauthorized modality
+[2025-04-11 22:17:17] - [CT_AE-192.168.1.31]: Rejected: Unauthorized modality
+[2025-04-11 22:17:17] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:17:17] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:18:10] - [CT_AE-192.168.1.31]: Rejected: Unauthorized modality
+[2025-04-11 22:18:10] - [CT_AE-192.168.1.31]: Rejected: Unauthorized modality
+[2025-04-11 22:18:10] - [CT_AE-192.168.1.31]: Rejected: Unauthorized modality
+[2025-04-11 22:18:10] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:18:10] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:18:10] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:18:10] - [CT_AE-192.168.1.31]: Rejected: Unauthorized modality
+[2025-04-11 22:18:10] - [CT_AE-192.168.1.31]: Rejected: Unauthorized modality
+[2025-04-11 22:18:10] - [CT_AE-192.168.1.31]: Rejected: Unauthorized modality
+[2025-04-11 22:18:10] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:18:10] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:18:10] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:18:11] - [CT_AE-192.168.1.31]: Rejected: Unauthorized modality
+[2025-04-11 22:18:11] - [CT_AE-192.168.1.31]: Rejected: Unauthorized modality
+[2025-04-11 22:18:11] - [CT_AE-192.168.1.31]: Rejected: Unauthorized modality
+[2025-04-11 22:18:11] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:18:11] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:18:11] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:18:11] - [CT_AE-192.168.1.31]: Rejected: Unauthorized modality
+[2025-04-11 22:18:11] - [CT_AE-192.168.1.31]: Rejected: Unauthorized modality
+[2025-04-11 22:18:11] - [CT_AE-192.168.1.31]: Rejected: Unauthorized modality
+[2025-04-11 22:18:11] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:18:11] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:18:11] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:18:46] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:18:46] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:18:46] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:18:46] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:18:47] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+[2025-04-11 22:18:47] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+[2025-04-11 22:18:47] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+[2025-04-11 22:18:47] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+❌ Error details: Invalid column name 'MaBN'.
+Invalid column name 'HotenBN'. in Database
+❌ Error details: Invalid column name 'MaBN'.
+Invalid column name 'HotenBN'. in Database
+❌ Error details: Invalid column name 'MaBN'.
+Invalid column name 'HotenBN'. in Database
+❌ Error details: Invalid column name 'MaBN'.
+Invalid column name 'HotenBN'. in Database
+[2025-04-11 22:18:47] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:18:47] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:18:47] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:18:47] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:18:47] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:18:47] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:18:47] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:18:47] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:18:47] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+[2025-04-11 22:18:47] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+[2025-04-11 22:18:47] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+[2025-04-11 22:18:47] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+❌ Error details: Invalid column name 'MaBN'.
+Invalid column name 'HotenBN'. in Database
+❌ Error details: Invalid column name 'MaBN'.
+Invalid column name 'HotenBN'. in Database
+❌ Error details: Invalid column name 'MaBN'.
+Invalid column name 'HotenBN'. in Database
+❌ Error details: Invalid column name 'MaBN'.
+Invalid column name 'HotenBN'. in Database
+[2025-04-11 22:18:47] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:18:47] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:18:47] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:18:47] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:19:14] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:19:14] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+❌ Error details: Invalid column name 'MaBN'.
+Invalid column name 'HotenBN'. in Database
+[2025-04-11 22:19:14] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:19:15] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:19:15] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+❌ Error details: Invalid column name 'MaBN'.
+Invalid column name 'HotenBN'. in Database
+[2025-04-11 22:19:15] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:20:29] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:20:29] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+❌ Lỗi khi xử lý tag (0010,0010) - SQL Column: tenbn | Content "Tuyển                                                                                               " does not validate VR PN: value exceeds maximum length of 64 characters
+[2025-04-11 22:20:29] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:20:29] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:20:29] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+❌ Lỗi khi xử lý tag (0010,0010) - SQL Column: tenbn | Content "Tuyển                                                                                               " does not validate VR PN: value exceeds maximum length of 64 characters
+[2025-04-11 22:20:29] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:20:38] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:20:38] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+❌ Lỗi khi xử lý tag (0010,0010) - SQL Column: tenbn | Content "Tuyển                                                                                               " does not validate VR PN: value exceeds maximum length of 64 characters
+[2025-04-11 22:20:38] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:20:38] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:20:38] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+❌ Lỗi khi xử lý tag (0010,0010) - SQL Column: tenbn | Content "Tuyển                                                                                               " does not validate VR PN: value exceeds maximum length of 64 characters
+[2025-04-11 22:20:38] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:21:16] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:21:16] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+❌ Lỗi khi xử lý tag (0010,0010) - SQL Column: tenbn | Content "Tuyển                                                                                               " does not validate VR PN: value exceeds maximum length of 64 characters
+[2025-04-11 22:21:16] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:21:16] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:21:16] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+❌ Lỗi khi xử lý tag (0010,0010) - SQL Column: tenbn | Content "Tuyển                                                                                               " does not validate VR PN: value exceeds maximum length of 64 characters
+[2025-04-11 22:21:16] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:29:05] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:29:05] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+❌ Lỗi khi xử lý tag (0010,0010) - SQL Column: tenbn | FellowOakDicom.DicomValidationException: Content "Tuyển                                                                                               " does not validate VR PN: value exceeds maximum length of 64 characters
+   at FellowOakDicom.DicomValidation.ValidatePN(String content)
+   at FellowOakDicom.DicomVR.ValidateString(String content)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at FellowOakDicom.DicomMultiStringElement.ValidateString()
+   at FellowOakDicom.DicomElement.Validate()
+   at FellowOakDicom.DicomDataset.DoAdd(DicomItem item, Boolean allowUpdate)
+   at FellowOakDicom.DicomDataset.DoAdd[T](DicomVR vr, DicomTag tag, IList`1 values, Boolean allowUpdate)
+   at FellowOakDicom.DicomDataset.DoAdd[T](DicomTag tag, IList`1 values, Boolean allowUpdate)
+   at worklist_server.DatabaseHelper.CreateDicomResponse(SqlDataReader reader, HashSet`1 actualColumns) in D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\DatabaseHelper.cs:line 345
+[2025-04-11 22:29:06] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:29:06] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:29:06] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+❌ Lỗi khi xử lý tag (0010,0010) - SQL Column: tenbn | FellowOakDicom.DicomValidationException: Content "Tuyển                                                                                               " does not validate VR PN: value exceeds maximum length of 64 characters
+   at FellowOakDicom.DicomValidation.ValidatePN(String content)
+   at FellowOakDicom.DicomVR.ValidateString(String content)
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at FellowOakDicom.DicomMultiStringElement.ValidateString()
+   at FellowOakDicom.DicomElement.Validate()
+   at FellowOakDicom.DicomDataset.DoAdd(DicomItem item, Boolean allowUpdate)
+   at FellowOakDicom.DicomDataset.DoAdd[T](DicomVR vr, DicomTag tag, IList`1 values, Boolean allowUpdate)
+   at FellowOakDicom.DicomDataset.DoAdd[T](DicomTag tag, IList`1 values, Boolean allowUpdate)
+   at worklist_server.DatabaseHelper.CreateDicomResponse(SqlDataReader reader, HashSet`1 actualColumns) in D:\Du_lieu_ca_nhan\Worklist Server\worklist_server\worklist_server\DatabaseHelper.cs:line 345
+[2025-04-11 22:29:06] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:33:57] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:33:57] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+[2025-04-11 22:33:57] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:33:57] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:33:57] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+[2025-04-11 22:33:57] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:36:15] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:36:15] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+[2025-04-11 22:36:16] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:36:16] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:36:16] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+[2025-04-11 22:36:16] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:39:42] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:39:42] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+[2025-04-11 22:39:42] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:39:42] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:39:42] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+
+[2025-04-11 22:39:42] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:41:37] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:41:37] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:41:37] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Time: N/A
+
+[2025-04-11 22:41:37] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Time: N/A
+
+⚠ Không thể parse TM:  cho tag (0010,0032)
+⚠ Không thể parse TM:  cho tag (0010,0032)
+[2025-04-11 22:41:37] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:41:37] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:46:18] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:46:18] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Time: N/A
+
+[2025-04-11 22:46:18] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:46:18] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:46:18] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Time: N/A
+
+[2025-04-11 22:46:18] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:47:39] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:47:39] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+[2025-04-11 22:47:50] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:47:50] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:47:50] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+[2025-04-11 22:47:53] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:50:07] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:50:07] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:50:07] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+[2025-04-11 22:50:07] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không thể parse DA:  cho tag (0010,0030)
+⚠ Không thể parse DA:  cho tag (0010,0030)
+[2025-04-11 22:50:07] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:50:07] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:50:07] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:50:07] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:50:07] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+[2025-04-11 22:50:07] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không thể parse DA:  cho tag (0010,0030)
+⚠ Không thể parse DA:  cho tag (0010,0030)
+[2025-04-11 22:50:07] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:50:07] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không thể parse DA:  cho tag (0010,0030)
+⚠ Không thể parse DA:  cho tag (0010,0030)
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không thể parse DA:  cho tag (0010,0030)
+⚠ Không thể parse DA:  cho tag (0010,0030)
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không thể parse DA:  cho tag (0010,0030)
+⚠ Không thể parse DA:  cho tag (0010,0030)
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không thể parse DA:  cho tag (0010,0030)
+⚠ Không thể parse DA:  cho tag (0010,0030)
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 22:50:20] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:04:30] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:04:30] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không tìm thấy DicomTag hợp lệ cho keyword: (0010,0020)
+⚠ Không tìm thấy DicomTag hợp lệ cho keyword: (0010,0010)
+⚠ Không tìm thấy DicomTag hợp lệ cho keyword: (0010,0032)
+⚠ Không tìm thấy DicomTag hợp lệ cho keyword: (0010,0030)
+[2025-04-11 23:04:30] - [CT_AE-192.168.1.31]: Connection closed with error: Failed to send DICOM message C-Find response [1]: Pending
+[2025-04-11 23:04:30] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:04:30] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không tìm thấy DicomTag hợp lệ cho keyword: (0010,0020)
+⚠ Không tìm thấy DicomTag hợp lệ cho keyword: (0010,0010)
+⚠ Không tìm thấy DicomTag hợp lệ cho keyword: (0010,0032)
+⚠ Không tìm thấy DicomTag hợp lệ cho keyword: (0010,0030)
+[2025-04-11 23:04:30] - [CT_AE-192.168.1.31]: Connection closed with error: Failed to send DICOM message C-Find response [1]: Pending
+[2025-04-11 23:04:40] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:04:40] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không tìm thấy DicomTag hợp lệ cho keyword: (0010,0020)
+⚠ Không tìm thấy DicomTag hợp lệ cho keyword: (0010,0010)
+⚠ Không tìm thấy DicomTag hợp lệ cho keyword: (0010,0032)
+⚠ Không tìm thấy DicomTag hợp lệ cho keyword: (0010,0030)
+[2025-04-11 23:04:40] - [CT_AE-192.168.1.31]: Connection closed with error: Failed to send DICOM message C-Find response [1]: Pending
+[2025-04-11 23:04:40] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:04:40] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không tìm thấy DicomTag hợp lệ cho keyword: (0010,0020)
+⚠ Không tìm thấy DicomTag hợp lệ cho keyword: (0010,0010)
+⚠ Không tìm thấy DicomTag hợp lệ cho keyword: (0010,0032)
+⚠ Không tìm thấy DicomTag hợp lệ cho keyword: (0010,0030)
+[2025-04-11 23:04:40] - [CT_AE-192.168.1.31]: Connection closed with error: Failed to send DICOM message C-Find response [1]: Pending
+[2025-04-11 23:10:34] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:10:34] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không thể parse DA:  cho tag (0010,0030)
+[2025-04-11 23:10:34] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:10:34] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:10:34] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không thể parse DA:  cho tag (0010,0030)
+[2025-04-11 23:10:34] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:11:52] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:11:52] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không thể parse DA:  cho tag (0010,0030)
+[2025-04-11 23:11:52] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:11:52] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:11:52] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không thể parse DA:  cho tag (0010,0030)
+[2025-04-11 23:11:52] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:16:01] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:16:01] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không thể parse DA: "" cho tag (0010,0030)
+[2025-04-11 23:16:01] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:16:01] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:16:01] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không thể parse DA: "" cho tag (0010,0030)
+[2025-04-11 23:16:01] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:19:22] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:19:22] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không thể parse DA: "" cho tag (0010,0030)
+[2025-04-11 23:19:22] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:19:22] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:19:22] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không thể parse DA: "" cho tag (0010,0030)
+[2025-04-11 23:19:22] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:19:30] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:19:30] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không thể parse DA: "" cho tag (0010,0030)
+[2025-04-11 23:19:30] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:19:30] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:19:30] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không thể parse DA: "" cho tag (0010,0030)
+[2025-04-11 23:19:30] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:20:03] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:20:03] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:20:03] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+[2025-04-11 23:20:03] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không thể parse DA: "" cho tag (0010,0030)
+⚠ Không thể parse DA: "" cho tag (0010,0030)
+[2025-04-11 23:20:03] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:20:03] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:20:19] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:20:19] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:20:19] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+[2025-04-11 23:20:19] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không thể parse DA: "" cho tag (0010,0030)
+⚠ Không thể parse DA: "" cho tag (0010,0030)
+[2025-04-11 23:20:19] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:20:19] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:20:19] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:20:19] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:20:19] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+[2025-04-11 23:20:19] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Không thể parse DA: "" cho tag (0010,0030)
+⚠ Không thể parse DA: "" cho tag (0010,0030)
+[2025-04-11 23:20:19] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:20:19] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:22:37] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:22:37] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Giá trị rỗng cho tag (0010,0030), bỏ qua.
+[2025-04-11 23:22:37] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:22:37] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:22:37] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 4
+Patient's Birth Date: N/A
+
+⚠ Giá trị rỗng cho tag (0010,0030), bỏ qua.
+[2025-04-11 23:22:37] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:23:02] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:23:02] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 5
+Patient's Birth Date: N/A
+
+[2025-04-11 23:23:02] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:23:46] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:23:46] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 5
+Patient's Birth Date: N/A
+
+[2025-04-11 23:23:46] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:23:46] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:23:46] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 5
+Patient's Birth Date: N/A
+
+[2025-04-11 23:23:46] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:23:56] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:23:56] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 6
+Patient's Birth Date: N/A
+
+⚠ Giá trị rỗng cho tag (0010,0030), bỏ qua.
+[2025-04-11 23:23:56] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:24:21] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:24:21] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 6
+Patient's Birth Date: N/A
+
+⚠ Giá trị rỗng cho tag (0010,0030), bỏ qua.
+[2025-04-11 23:24:21] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:24:22] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:24:22] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 6
+Patient's Birth Date: N/A
+
+⚠ Giá trị rỗng cho tag (0010,0030), bỏ qua.
+[2025-04-11 23:24:22] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:24:26] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:24:26] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 7
+Patient's Birth Date: N/A
+
+⚠ Giá trị rỗng cho tag (0010,0030), bỏ qua.
+[2025-04-11 23:24:26] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:25:03] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:25:03] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 7
+Patient's Birth Date: N/A
+
+⚠ Giá trị rỗng cho tag (0010,0030), bỏ qua.
+[2025-04-11 23:25:03] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:25:20] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:25:20] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+Patient's Name: N/A
+Patient ID: 8
+Patient's Birth Date: N/A
+
+[2025-04-11 23:25:20] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:28:00] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:28:00] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+SOP Class UID: N/A
+Patient's Name: N/A
+Patient ID: 8
+Patient's Birth Date: N/A
+
+[2025-04-11 23:28:01] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:28:39] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:28:39] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:28:39] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+SOP Class UID: N/A
+Patient's Name: N/A
+Patient ID: 8
+Patient's Birth Date: N/A
+
+[2025-04-11 23:28:39] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+SOP Class UID: N/A
+Patient's Name: N/A
+Patient ID: 8
+Patient's Birth Date: N/A
+
+[2025-04-11 23:28:39] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:28:39] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:28:39] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:28:39] - [CT_AE-192.168.1.31]: Modality Worklist Information Model - FIND [1.2.840.10008.5.1.4.31]
+[2025-04-11 23:28:39] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+SOP Class UID: N/A
+Patient's Name: N/A
+Patient ID: 8
+Patient's Birth Date: N/A
+
+[2025-04-11 23:28:39] - [CT_AE-192.168.1.31]: DICOM Request Tags:
+SOP Class UID: N/A
+Patient's Name: N/A
+Patient ID: 8
+Patient's Birth Date: N/A
+
+[2025-04-11 23:28:39] - [CT_AE-192.168.1.31]: Connection closed normally.
+[2025-04-11 23:28:39] - [CT_AE-192.168.1.31]: Connection closed normally.

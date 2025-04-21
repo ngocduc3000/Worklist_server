@@ -1,0 +1,19 @@
+{
+  "Registry": {
+    "_RegistryPath": "AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAIVl3BvmDmk+JyG0cYH8NWQAAAAACAAAAAAAQZgAAAAEAACAAAACLQHwavIVTO9n8k9WgKilW5uQyiwE9SvQCLKkV8GVZEgAAAAAOgAAAAAIAACAAAAASJpenEeT6UaGe6NzV8clAgnjwNPZaDDLqQzu/K1em2iAAAADwKzJjoopCmNX0fGVIdbNpZaC27qF39/QjmJ7oFKg95kAAAAAqmkT8VFOPf792cn8EIXQw53Lmt3+VUTbHho6ey08skcFEoimx+MjwjtkrSXOdBpV2nMkUFbkjFypsu2wpupru",
+    "_InstallDateKey": "AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAIVl3BvmDmk+JyG0cYH8NWQAAAAACAAAAAAAQZgAAAAEAACAAAACVyIggG5miv/ogFJzlb8C37nxaUuoTFBqOheaSz+V7OwAAAAAOgAAAAAIAACAAAADD4hPTg4bnYUflcULTIc8t3Jln3mQ+TMCiQZQEgPWhqBAAAAAUU/dVmCVkQU322E0F9EEJQAAAANmeSmIletBezL5BLFXTBA0y6WBe0pC4b7CLlZ0g22ki/W5k/SX1UAUvwCkH/rmC8VlJqDEvijzavPFDhcWxDaI=",
+    "AppName": "WorklistApp",
+    "Version": "1.0.0"
+  },
+  "Database": {
+    "_connectionString": "AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAIVl3BvmDmk+JyG0cYH8NWQAAAAACAAAAAAAQZgAAAAEAACAAAAAowhiTgSeYyFlSXxtYNwnJrjlxnEiURd1Wm76KOqmfvAAAAAAOgAAAAAIAACAAAABSABi6HhmaG21XM9dV5/Vk6ydRIIBiqSH2aC8Eim//B3AAAAB1Mh9ElQ8CrPcrHzIgpWi6xyFfzu3T/osPDKbQ94YPyWqhC2TR8Cyzo3MpsBL0XYKgV+EXI1gfTHv86qgm5dakSnO2jTXPKqJQVkrKBIOyQehiFq5FJ+sLyvyI5h4crQSM1jHmHF5uFCiP1YREQ5evQAAAADJSBunnfFUTWuDIuv+hfE/nTEu7f/nHyHjXgWwcGm0mx62HLJDrkwUzaroL54eN5xEj7dbqqwYFQ5qoDdV3gxs=",
+    "SelectedDatabase": "SQLServer"
+  },
+  "Feature": {
+    "IsEnableNotice": false
+  },
+  "Logging": {
+    "LogLevel": "Information",
+    "EnableFileLog": true
+  }
+}
