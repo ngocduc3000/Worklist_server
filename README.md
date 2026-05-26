@@ -30,22 +30,23 @@ Follow these steps to get your development or production environment running:
 ```bash
 git clone [https://github.com/ngocduc3000/Worklist_server.git](https://github.com/ngocduc3000/Worklist_server.git)
 cd Worklist_server
+
 ### 2. Configure Environment Variables
 Copy the template environment file to create your active configuration:
 
-Bash
+```Bash
 cp .env.example .env
 Note: Open the .env file with your preferred text editor (e.g., nano .env) to customize settings such as internal ports, host bindings, and model names before launching.
 
 ### 3. Deploy using Docker Compose
 Build, pull required images, and launch all backend services in detached (background) mode:
 
-Bash
+```Bash
 docker compose up -d
 ### 4. Verify Service Status
 Check if all containers are running successfully and healthy:
 
-Bash
+```Bash
 docker ps
 You should see your active containers listed with an Up status and ports properly bound to the host system.
 
@@ -64,27 +65,27 @@ Worklist_server/
 Viewing Real-time Service Logs
 To monitor live execution logs or troubleshoot connection states between services, run:
 
-Bash
+```Bash
 docker compose logs -f
 Checking Active Local Models
 To verify which models are successfully loaded into your isolated environment, execute:
 
-Bash
+```Bash
 docker exec -it ollama-service ollama list
 Pulling New Models Manually
 If your application requires a specific embedding or LLM architecture, force an internal download via:
 
-Bash
+```Bash
 docker exec -it ollama-service ollama pull nomic-embed-text-v2-moe
 Stopping the Server
 To halt all active containers safely without erasing your stored persistent indexes or data volumes:
 
-Bash
+```Bash
 docker compose down
 Wiping Cache and Volume Storage (Hard Reset)
 To reset the system entirely and remove all downloaded models along with database storages:
 
-Bash
+```Bash
 docker compose down -v
 ### 📄 License
 This project is licensed under the MIT License - see the file for details.
